@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SUN SHINE!!!",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-05T15:26:45.738655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "May the Sun Shine Bright for You",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/01_May_the_Sun_Shine_Bright_for_You_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let the Sun Shine In",
+      "artist": "Bambee",
+      "has_synced": true,
+      "path": "select/02_Let_the_Sun_Shine_In_Bambee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "U Make My Sun Shine",
+      "artist": "Prince feat. Angie Stone",
+      "has_synced": false,
+      "path": "select/03_U_Make_My_Sun_Shine_Prince_feat._Angie_Stone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "U Make My Sun Shine (Featuring Angie Stone)",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/04_U_Make_My_Sun_Shine_(Featuring_Angie_Stone)_Prince.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "U Make My Sun Shine",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/05_U_Make_My_Sun_Shine_Prince.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make My Sun Shine",
+      "artist": "Swim Deep",
+      "has_synced": true,
+      "path": "select/06_Make_My_Sun_Shine_Swim_Deep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vuelie / Let the Sun Shine On (From \"Frozen: The Broadway Musical\")",
+      "artist": "Original Broadway Cast of Frozen",
+      "has_synced": false,
+      "path": "select/07_Vuelie___Let_the_Sun_Shine_On_(From__Frozen__The_Broadway_Musical_)_Original_Broadway_Cast_of_Frozen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vuelie \u0000 Let the Sun Shine On (From \"Frozen: The Broadway Musical\")",
+      "artist": "Original Broadway Cast of Frozen",
+      "has_synced": false,
+      "path": "select/08_Vuelie_\u0000_Let_the_Sun_Shine_On_(From__Frozen__The_Broadway_Musical_)_Original_Broadway_Cast_of_Frozen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Why Does the Sun Shine? (The Sun Is a Mass of Incandescent Gas)",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/09_Why_Does_the_Sun_Shine__(The_Sun_Is_a_Mass_of_Incandescent_Gas)_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let the Sun Shine",
+      "artist": "Milk feat. Sugar",
+      "has_synced": false,
+      "path": "select/10_Let_the_Sun_Shine_Milk_feat._Sugar.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let the Sun Shine",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/11_Let_the_Sun_Shine_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aquarius / Let the Sun Shine In",
+      "artist": "Evelyn \"Champagne\" King, The Brothers, Vicki Sue Robinson, The New York Community Choir & Revelation",
+      "has_synced": false,
+      "path": "select/12_Aquarius___Let_the_Sun_Shine_In_Evelyn__Champagne__King,_The_Brothers,_Vicki_Sue_Robinson,_The_New_York_Communit.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aquarius \u0000 Let the Sun Shine In",
+      "artist": "Evelyn \"Champagne\" King",
+      "has_synced": false,
+      "path": "select/13_Aquarius_\u0000_Let_the_Sun_Shine_In_Evelyn__Champagne__King.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sun Shine",
+      "artist": "The Doppelgangaz",
+      "has_synced": false,
+      "path": "select/14_Sun_Shine_The_Doppelgangaz.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Make The Sun Shine (feat. Barry Manilow)",
+      "artist": "Gary Barlow",
+      "has_synced": true,
+      "path": "select/15_You_Make_The_Sun_Shine_(feat._Barry_Manilow)_Gary_Barlow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUN SHINE!!!",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_SUN_SHINE!!!_GReeeeN.txt"
+    }
+  ]
+}
